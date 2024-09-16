@@ -1,24 +1,13 @@
 ---
-title: WSL2.1.5.0 ubuntu22.04 proxy configration
-top: false
-cover: false
-toc: true
-mathjax: false
-date: 2024-04-04 08:40:38
+layout: post
+title: WSL2.1.5.0, ubuntu22.04 proxy configration
 author: Peler
-img: https://betanews.com/wp-content/uploads/2022/11/WSL-640x343.jpg
-coverImg: 
-password:
-summary: a simplest way to configrate proxy in WSL
-keywords: WSL proxy configration WSL代理配置
+date: 2024-04-04 08:40:38
 tags: 
     - WSL 
     - proxy
-    - configration
 categories: WSL
 ---
-
-(images from https://betanews.com/2022/11/16/windows-subsystem-for-linux-wsl-1/ just for non-bussiness use, thanks a lot)
 
 ## WSL2.1.5.0 ubuntu22.04 proxy configration
 
@@ -34,7 +23,7 @@ it's really simple! INDEED!
 
 new version have an excellent adaptation of proxy.
 
-### solution
+### Solution
 1. create .wslconfig in `C:\Users\YOUR_USERNAME` if you can't find it
 
 2. open it and write the code below:
@@ -70,4 +59,5 @@ index.html.6                      [ <=>                                         
 
 2024-04-04 08:54:08 (342 KB/s) - ‘index.html.6’ saved [19947]
 ```
+
 then congratulations!
