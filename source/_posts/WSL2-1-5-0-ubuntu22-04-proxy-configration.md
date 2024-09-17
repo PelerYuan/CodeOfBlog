@@ -7,7 +7,7 @@ tags:
     - WSL 
     - proxy
     - English
-categories: WSL
+categories: configration
 ---
 
 ## WSL2.1.5.0 ubuntu22.04 proxy configration
