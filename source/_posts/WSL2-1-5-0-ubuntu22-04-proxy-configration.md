@@ -12,11 +12,9 @@ categories: configration
 
 ## WSL2.1.5.0 ubuntu22.04 proxy configration
 
-Just for a record.
+I updated WSL to the latest version, and I found all the method on the Internet was complex and not avaliable any more.
 
-It's very funny. I updated WSL to the latest version, and I found all the method on the Internet was complex and not avaliable any more.
-
-After trying for lots of methods, I suddenly heard someone said put it simple.
+After trying for lots of methods, I suddenly heard someone said `put it simple`.
 
 And...
 
