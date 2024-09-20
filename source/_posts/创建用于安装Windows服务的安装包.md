@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 创建用于安装Windows服务的安装包要踩的坑.md
+title: 创建用于安装Windows服务的安装包要踩的坑
 author: Peler
 date: 2024-09-21 01:01:31
 tags:

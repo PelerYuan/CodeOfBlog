@@ -39,7 +39,11 @@ nssm start 服务名称
 nssm stop 服务名称
 ```
 
-如果选择 remove 后面加上 confirm，可以直接删除而不需要 GUI 界面确认。
+如果 remove 后面加上 confirm，可以直接删除而不需要 GUI 界面确认:
+
+```
+nssm stop 服务名称
+```
 
 ## 查看服务状态
 
