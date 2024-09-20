@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows注册服务
+title: Windows注册服务注意点
 author: Peler
 date: 2024-09-18 23:16:05
 tags:
@@ -34,3 +34,5 @@ categories: Powershell/CMD
 有一点很重要：确保你的 EXE 程序可以被注册为服务！！！
 
 否则，使用 NSSM（也许过一天写一个博客）。
+
+{% post_link Windows服务注册踩坑日记 '相关的下一篇文章' %}

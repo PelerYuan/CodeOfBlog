@@ -12,15 +12,15 @@ categories: configration
 
 ## WSL2.1.5.0 ubuntu22.04 proxy configration
 
-I updated WSL to the latest version, and I found all the method on the Internet was complex and not avaliable any more.
+I have updated WSL to the latest version, and I found all the method on the Internet was complex and not avaliable any more.
 
 After trying for lots of methods, I suddenly heard someone said `put it simple`.
 
 And...
 
-it's really simple! INDEED!
+It's really simple! INDEED!
 
-new version have an excellent adaptation of proxy.
+The new version have an excellent adaptation of proxy.
 
 ### Solution
 1. create .wslconfig in `C:\Users\YOUR_USERNAME` if you can't find it
