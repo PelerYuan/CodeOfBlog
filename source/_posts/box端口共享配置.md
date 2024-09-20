@@ -7,7 +7,7 @@ tags:
     - virtual box
     - server
     - 中文
-categories: configration
+categories: virtual machine
 ---
 
 ## 场景1：主机共享到虚拟机

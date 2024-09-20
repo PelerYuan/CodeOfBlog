@@ -6,7 +6,7 @@ date: 2024-09-18 23:16:05
 tags:
     - Windows service
     - 中文
-categories: Powershell/CMD
+categories: SysyncWin 开发踩坑日记
 ---
 
 ## 没事别用 Powershell 和 CMD
