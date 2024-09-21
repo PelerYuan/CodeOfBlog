@@ -14,7 +14,7 @@ categories: PowerShell/CMD
 
 所以比如说访问上级文件夹，就是：
 
-```
+```bat
 %~dp0\..\
 ```
 

@@ -13,7 +13,7 @@ categories: Windows configration
 ## 创建服务
 使用以下命令创建服务：
 
-```
+```powershell
 nssm install 服务名称
 ```
 
@@ -21,7 +21,7 @@ nssm install 服务名称
 
 如果不想要图形界面，直接制定 EXE 文件，则可以：
 
-```
+```powershell
 nssm install 服务名称 "可执行文件的完整路径"
 ```
 
@@ -29,25 +29,25 @@ nssm install 服务名称 "可执行文件的完整路径"
 ## 启动服务
 配置完成后，可以使用以下命令启动服务：
 
-```
+```powershell
 nssm start 服务名称
 ```
 
 ## 停止和删除服务
 
-```
+```powershell
 nssm stop 服务名称
 ```
 
 如果 remove 后面加上 confirm，可以直接删除而不需要 GUI 界面确认:
 
-```
-nssm stop 服务名称
+```powershell
+nssm stop 服务名称 confirm
 ```
 
 ## 查看服务状态
 
-```
+```powershell
 sc query 服务名称
 ```
 
