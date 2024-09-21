@@ -4,9 +4,9 @@ title: 临时扩大swap大小
 author: Peler
 date: 2024-09-21 12:55:13
 tags:
-    - Linux system settings
+    - Swap
     - 中文
-categories: Linux
+categories: Linux configration
 ---
 
 最近在跑虚拟机，内存压力有点大。临时创建 swap 分区可以分担压力。
