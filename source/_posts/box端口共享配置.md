@@ -5,7 +5,6 @@ author: Peler
 date: 2024-09-17 19:11:42
 tags:
     - virtual box
-    - server
     - 中文
 categories: virtual machine
 ---
