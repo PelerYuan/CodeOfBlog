@@ -9,8 +9,8 @@ tags:
 categories: SysyncWin 开发踩坑日记
 ---
 
-![](1.png)
+![](/img/SysyncWin测试虚拟机配置/1.png)
 
-![](2.png)
+![](/img/SysyncWin测试虚拟机配置/1.png)
 
 ***一定关闭防火墙***
