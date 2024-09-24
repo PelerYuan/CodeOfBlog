@@ -6,7 +6,7 @@ date: 2024-09-17 19:11:42
 tags:
     - virtual box
     - 中文
-categories: virtual machine
+categories: Virtual machine
 ---
 
 ## 场景1：主机共享到虚拟机
